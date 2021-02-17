@@ -1,5 +1,5 @@
 <p align="center">
-![Mabo](https://www.mabo.co.uk/wp-content/uploads/2019/01/mabo-logo.png)
+<img src="https://www.mabo.co.uk/wp-content/uploads/2019/01/mabo-logo.png
 </p>
 
 ---
